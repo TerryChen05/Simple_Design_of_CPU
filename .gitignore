@@ -1,0 +1,30 @@
+# Quartus database and temporary files
+db/
+incremental_db/
+output_files/
+*.qws
+*.jdi
+*.smsg
+*.done
+
+# Compiled programming files
+*.sof
+*.pof
+*.rpt
+*.cmp
+*.pdb
+*.bak
+
+# Simulation files
+simulation/
+modelsim.ini
+*.wlf
+*.vcd
+
+# Backup files
+*.bak
+*.tmp
+
+# Other system-specific files
+.DS_Store
+Thumbs.db
