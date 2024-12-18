@@ -20,6 +20,7 @@ simulation/
 modelsim.ini
 *.wlf
 *.vcd
+*.vwf
 
 # Backup files
 *.bak
