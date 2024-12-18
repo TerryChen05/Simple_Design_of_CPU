@@ -24,6 +24,8 @@ modelsim.ini
 # Backup files
 *.bak
 *.tmp
+*.temp
+*.bsf
 
 # Other system-specific files
 .DS_Store
